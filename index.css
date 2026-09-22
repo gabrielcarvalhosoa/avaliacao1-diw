@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.tabela {
+    margin: auto;
+    width: 600px;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #333;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.cabecalho {
+    background-color: #0e3d55;
+    text-align: left;
+}
+
+.cabecalho h1 {
+    color: white;
+    text-align: center;
+    margin: 8px;
+}
+
+.conteudo {
+    background-color: white;
+    text-align: left;
+}
+
+.rodape {
+    background-color: #bfbdbd;
+    text-align: center;
+    margin: 0;
+}
+
+.rodape p{
+    margin: 0;
+}
+
+img{
+    border-radius: 100px;
+    border: 3px solid #0e3d55;
+}
+
+a {
+    color: rgb(6, 6, 64);
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}

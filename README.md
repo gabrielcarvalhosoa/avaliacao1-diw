@@ -1,7 +1,12 @@
 Respostas das questões fechadas:
 
+
 a) < a >
-b) <link rel="stylesheet" href="index.css"> 
+
+b) < link rel="stylesheet" href="index.css" > 
+
 c) .cabecalho
-d) <tr>
+
+d) < tr >
+
 e) background-color
